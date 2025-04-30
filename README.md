@@ -6,7 +6,7 @@ The solution employs a **Hybrid Anomaly Detection strategy**, combining unsuperv
 
 This project was developed as a capstone, showcasing the application of AI/ML techniques to enhance financial controls within an SAP context, bridging deep SAP domain knowledge with modern data science practices.
 
-**Author:** Anitha R (https://www.linkedin.com/in/anithaswamy)
+**Author:** AR-Version2
 
 **Dataset Origin:** [Kaggle SAP Dataset by Sunitha Siva](https://www.kaggle.com/datasets/sunithasiva/sap-dataset) 
 License:Other (specified in description)-No description available.
@@ -134,8 +134,8 @@ Copyright (c) 2025 Anitha R
 
 The code and content in this repository are the proprietary intellectual property of the author. **No part of this repository may be copied, modified, distributed, or used in any form without the express prior written permission of the author.**
 
-For inquiries regarding licensing for commercial or other use, please contact [Your Email Address or preferred contact method].
+For inquiries regarding licensing for commercial or other use, please contact AR-Version2.
 
 ## Contact
 
-Anitha R - ([https://www.linkedin.com/in/anithaswamy)
+AR-Version2
