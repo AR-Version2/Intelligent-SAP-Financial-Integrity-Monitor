@@ -1,0 +1,28 @@
+# Core Data Handling and Numerics
+pandas==2.2.3
+numpy==2.1.3
+scipy==1.15.2 # Important scientific computing dependency
+
+# Machine Learning & Evaluation
+scikit-learn==1.6.1
+# tensorflow==YOUR_VERSION 
+torch==2.6.0 # PyTorch was used (e.g., for Autoencoder)
+
+# Dashboard & UI
+streamlit==1.43.2
+streamlit-aggrid==1.1.4.post1 # Note: Specific post release
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+plotly==6.0.1
+
+# Model/Scaler Saving
+joblib==1.4.2
+
+
+# Data I/O Efficiency (Optional but good practice if used)
+# pyarrow==19.0.1
+
+# Optional: Plot Saving
+# kaleido==0.2.1
